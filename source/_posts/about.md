@@ -4,7 +4,7 @@ title: About Me
 
 ## Contact information
 
-You can contact me at t.santos(at)decos.com.
+You can contact me at mail(at)tmasantos.com.
 
 ## BIO
 
