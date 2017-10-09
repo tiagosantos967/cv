@@ -9,7 +9,7 @@ As a robotics engineer at Decos, I do a lot of front and back-end development, w
 At Decos we are building one of the first robot-receptionist startups that is pioneering the field of social robotics. Here, I work as a full stack Robotics Engineer, and I am currently developing 3 platforms: a robot receptionist (Pepper), a doorman robot (ECO) and a API/WebApplication that manages the integration between all the robots we have (C3PO).
 
 ## Research Engineer at [Uninova – CA3](http://ca3-uninova.org "Uninova - CA3's Homepage")
-At CA3 I started as an intern and ended as a research engineer. There I helped develop several projects for [ESA](http://www.esa.int/ESA), namely: [IPSIS](http://ca3-uninova.org/project_ipsis), [FUSION](http://ca3-uninova.org/project_fusion) and [AVERT](http://ca3-uninova.org/project_avert).  
+At CA3 I started as an intern and left as a research engineer. There I helped develop several projects for [ESA](http://www.esa.int/ESA), namely: [IPSIS](http://ca3-uninova.org/project_ipsis), [FUSION](http://ca3-uninova.org/project_fusion) and [AVERT](http://ca3-uninova.org/project_avert).
 My coordinator was Dr. Rita Ribeiro, who was mentored by [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh "Who is Zadeh?") (Fuzzy Logic author).
 
 ## Teaching Assistant at [FCT-UNL](http://www.fct.unl.pt/en "FCT-UNL's Homepage")
