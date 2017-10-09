@@ -4,7 +4,7 @@ title: About Me
 
 ## Contact information
 
-You can contact me at mail(at)tmasantos.com.
+You can contact me at tiago.s.1189(at)gmail.com.
 
 ## BIO
 
