@@ -1,0 +1,18 @@
+menu:
+    Résumé: /
+    About: /about/
+
+favicon: /favicon.png
+logo: /circulartiago.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+ga: UA-65933410-1
+
+# Copyright Infomation
+startyear: 2016
