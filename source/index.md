@@ -1,8 +1,7 @@
 ---
 title: Hello World!
 ---
-My name is Tiago and I’m a Portuguese robotics engineer, currently living and working in The Netherlands.
-As a robotics engineer at Decos, I do a lot of front and back-end development, while being involved in the creation of a startup that is pioneering the field of social-robotics.   
+My name is Tiago and I’m a Portuguese full stack robotics engineer, currently living and working in The Netherlands. As a robotics engineer at [Decos](https://www.decos.com "Decos' Homepage"), I do a lot of front and back-end development, while being involved in the creation of a startup that is pioneering the field of social-robotics.   
 
 # Work Experience
 ## [Robotics and Future Technologies Engineer](/decos) at [Decos](https://www.decos.com "Decos' Homepage")
