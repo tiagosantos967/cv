@@ -1,12 +1,11 @@
 ---
 title: Hello World!
 ---
-My name is Tiago and I’m a Portuguese robotics engineer, currently living and working in The Netherlands. As a CTO at a startup [WELBO](https://www.welbo.eu), I am helping to pioneer the field of social-robotics with one of the first robot receptionists in the Netherlands.
-On my spare time I like to read about human behavior towards technology and how to integrate it better in our daily lives. I also like to keep up to date with the latest technology trends in order to improve my work. Another interest of mine is the Internet of Things and home automation.
+My name is Tiago and I’m a Portuguese robotics engineer, currently living and working in The Netherlands. As a CTO at a startup [WELBO](https://www.welbo.eu) I am helping to pioneer the field of social-robotics with one of the first robot receptionists in the Netherlands. On my spare time I like to read about human behavior towards technology and how to integrate it better in our daily lives. I also like to keep up to date with the latest technology trends in order to improve my work. Another interest of mine is the Internet of Things and home automation.
 
 # Work Experience
 ## CTO at [WELBO](https://www.welbo.eu)
-In January of 2018 WELBO was founded from a robotics "Skunk Works" that I started on me previous role.
+In January of 2018 WELBO was founded from a robotics "Skunk Works" that I started on my previous role.
 One of my first duties as CTO was to move our server architecture to the Google Cloud, using Kubernetes clusters.
 At the moment I am working on:
 * Improving operations in order to deploy our software quicker to new clients;
