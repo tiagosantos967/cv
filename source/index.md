@@ -1,25 +1,59 @@
 ---
 title: Hello World!
 ---
-My name is Tiago and I’m a Portuguese robotics engineer, currently living and working in The Netherlands. As a CTO at a startup [WELBO](https://www.welbo.eu) I am helping to pioneer the field of social-robotics with one of the first robot receptionists in the Netherlands. On my spare time I like to read about human behavior towards technology and how to integrate it better in our daily lives. I also like to keep up to date with the latest technology trends in order to improve my work. Another interest of mine is the Internet of Things and home automation.
+My name is Tiago. I’m a Portuguese Full Stack Engineer, currently living and working in The Netherlands. I moved here to start [WELBO](https://www.welbo.eu), a pioneering startup in the field of social-robotics, which developed and deployed one of the first robot-receptionists in The Netherlands. 
+ 
+My current technological interests lie in the power of cloud computing and large scale / highly available software architectures. For that, I have been working with state-of-the-art technologies like Kubernetes, micro-services, NodeJs and ReactJS.
+ 
+Other interests of mine are the Internet of Things and Home Automation.
+
+Bellow you can find my work experience, from present to past. For a shorter version you can [find here my CV in PDF](/cv.pdf). 
 
 # Work Experience
-## CTO at [WELBO](https://www.welbo.eu)
-In January of 2018 WELBO was founded from a robotics "Skunk Works" that I started on my previous role.
-One of my first duties as CTO was to move our server architecture to the Google Cloud, using Kubernetes clusters.
-At the moment I am working on:
-* Improving operations in order to deploy our software quicker to new clients;
-* Moving more robotics services to the power of Cloud Computing.
+## CTO & Full Stack Engineer at [WELBO](https://www.welbo.eu). January 2018 to present.
+![alt text](/imgs/welbo/welbo_logo_slim.png)
+WELBO was founded in January of 2018 when it became independent from DECOS, where the project started (read next). There, our mission was to build and prove that there is a market for social-robots. Now, with a proven concept and the first clients, it's time to grow and make robots part of our daily lives.
 
-## [Robotics and Future Technologies Engineer](/decos) at [Decos](https://www.decos.com "Decos' Homepage")
-At Decos I started a social robotics company where I led the development of one of the first robot receptionists in the Netherlands, using modern technologies like ReactJs, NodeJs, Docker Agile and Scrum.
-I also worked on the development of our doorman robot, which guides visitors daily at the Decos office. I was also actively involved in the acquisition of the first clients.
+We build software that combines existing robot solutions with existing Machine Learning techniques. The idea is not to reinvent the wheel but use all the available technologies at our disposal. 
 
-## Research Engineer at [Uninova – CA3](http://ca3-uninova.org "Uninova - CA3's Homepage")
+My first mission as CTO was to move the existing server architecture, previously built at DECOS, to the Google Cloud, using Kubernetes clusters. Then, was to move as many services running client side to the cloud, proving that the power of the Cloud can be used in robotics as well. This way we:
+* are use continuous integration and delivery techniques used by modern software companies; 
+* increased our delivery times, while maintaining high availability of our systems;
+* are automatically scaling our server architecture when needed;
+* not limited by hardware constraints like programing languages, CPU or graphics;
+* can start using new robot platforms faster, since not that much code has to be rewritten;
+* use existing powerful cloud tools for Machine Learning, like google speech, google vision, YOLO, etc; and for CI/CD like Bitbucket pipelines and Google Container Registry; 
+* outsource work easier, since no hardware is needed to code. Robots can be emulated easily since barely any code runs on them. 
+
+## [Robotics Engineer (Full Stack)](/decos) at [DECOS](https://www.decos.com "DECOS' Homepage"). June 2016 to December 2017.
+![alt text](/imgs/decos/decos_office_snow_slim.jpg)
+At DECOS we started a social-robotics company. There I led the development of one of the first robot-receptionists in The Netherlands.
+
+My first accomplishment was architecting a scalable app for [Pepper](https://www.softbankrobotics.com/emea/en/pepper). This app enables:
+* the engineering team to easily add features to the existing product;
+* the behavioral team to design the interactions, by editing a single file;
+* reusability of existing modules, due to its state-machine architecture;
+* one-day configuration and deployment times for new customers, if they have a different use-case for the robot where the existing features can be reused.   
+
+Having a single app, instead of multiple ones, enables us to quickly:
+* release new features to clients faster;
+* find, fix and release bug fixes;
+* improve on an existing product. 
+
+I also led the development of the backend server, that all of the robots use to integrate with client systems, like visitor registrations and messaging APIs. This software is:
+* built using open-source technologies like FeathersJs and MongoDB;
+* interfaced with a dashboard built using ReactJs, using Redux and Sagas;
+* still being used today, and is the core product of WELBO (see above for more details)
+
+Another project I worked on was the development of our doorman robot, which guides visitors daily at the Decos office. This robots was developed ROS and uses the aforementioned backend to interact with other robots. 
+
+Being a startup, everyone needs to be flexible and take on multiple roles. This way I was also actively involved in the acquisition of the first clients, and pitching the idea to partners and client prospects.
+
+## Research Engineer at [UNINOVA – CA3](http://ca3-uninova.org "UNINOVA - CA3's Homepage"). July 2011 to March 2016.
 At CA3 I started as an intern and left as a research engineer. There I worked on several Machine Learning projects for [ESA](http://www.esa.int/ESA), namely: [IPSIS](http://ca3-uninova.org/project_ipsis), [FUSION](http://ca3-uninova.org/project_fusion) and [AVERT](http://ca3-uninova.org/project_avert).
 My coordinator was Dr. Rita Ribeiro, who was mentored by [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh "Who is Zadeh?") (Fuzzy Logic author).
 
-## Teaching Assistant at [FCT-UNL](http://www.fct.unl.pt/en "FCT-UNL's Homepage")
+## Teaching Assistant at [FCT-UNL](http://www.fct.unl.pt/en "FCT-UNL's Homepage"). Last semester of 2015.
 During the last year of my Masters I was a teacher assistant for the [course PM (Programação de Micro-processadores)](http://www.unl.pt/guia/2013/fct/UNLGI_getUC?uc=7777) where I assisted 1st year Electrical and Computer Engineering students taking their first steps in C and programming in general.
 
 # Studies
