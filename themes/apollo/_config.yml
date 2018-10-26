@@ -1,6 +1,7 @@
 menu:
     Résumé: /
     About: /about/
+    Github: https://www.github.com/tiagosantos967
 
 favicon: /favicon.png
 logo: /circulartiago.png
@@ -12,7 +13,7 @@ duoshuo:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-90615891-1
 
 # Copyright Infomation
 startyear: 2016
