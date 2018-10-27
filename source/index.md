@@ -50,15 +50,25 @@ Another project I worked on was the development of our doorman robot, which guid
 Being a startup, everyone needs to be flexible and take on multiple roles. This way I was also actively involved in the acquisition of the first clients, and pitching the idea to partners and client prospects.
 
 ## Research Engineer at [UNINOVA – CA3](http://ca3-uninova.org "UNINOVA - CA3's Homepage"). July 2011 to March 2016.
-At CA3 I started as an intern and left as a research engineer. There I worked on several Machine Learning projects for [ESA](http://www.esa.int/ESA), namely: [IPSIS](http://ca3-uninova.org/project_ipsis), [FUSION](http://ca3-uninova.org/project_fusion) and [AVERT](http://ca3-uninova.org/project_avert).
-My coordinator was Dr. Rita Ribeiro, who was mentored by [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh "Who is Zadeh?") (Fuzzy Logic author).
+![alt text](/imgs/ca3/ca3_selflading_slim.png)
+My professional life started when I joined CA3 in the summer of 2011, during the 2nd year of my bachelor's degree, as an intern. I stayed there for 5 years, working part-time and became a full time research engineer on the last two. 
+
+There I worked on several Machine Learning projects for the [European Space Agency](http://www.esa.int/ESA), namely: 
+* [IPSIS](http://ca3-uninova.org/project_ipsis): developing C software to perform hazard avoidance for planetary landers, using Fuzzy Logic for site selection;
+* [FUSION](http://ca3-uninova.org/project_fusion): improving IPSIS to perform data fusion of data from different sources, like Lidar, cameras and fuel maps; 
+* [AVERT](http://ca3-uninova.org/project_avert): continuation of FUSION, where I was responsible for improving the site selection ranking system, using historical and near-pixel data;
+* Sensor Fusion: classifying terrain using satellite image data. Also using Fuzzy Logic to aggregate data from multiple wavelength images.
+
+My coordinator was Dr. Rita Ribeiro, mentored by [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh "Who is Zadeh?") (Fuzzy Logic author).
+
+I left when I finished my masters, to move to the netherlands and pursue my dream of becoming a Robotics Engineer.
 
 ## Teaching Assistant at [FCT-UNL](http://www.fct.unl.pt/en "FCT-UNL's Homepage"). Last semester of 2015.
 During the last year of my Masters I was a teacher assistant for the [course PM (Programação de Micro-processadores)](http://www.unl.pt/guia/2013/fct/UNLGI_getUC?uc=7777) where I assisted 1st year Electrical and Computer Engineering students taking their first steps in C and programming in general.
 
 # Studies
-## Master of Electrical and Computer Engineering at [FCT-UNL](http://www.fct.unl.pt/en "FCT-UNL's Homepage")
-Specializations in Robotics, Machine Learning (Fuzzy Logic and Artificial Neural Network) and Control Systems. Thesis: [Land Cover classification using remotely sensed data from Satellite Images and Fuzzy Inference Systems](http://ieeexplore.ieee.org/document/7555116/). Implemented mainly in Matlab.
+## Master and Bachelors' of Electrical and Computer Engineering at [FCT-UNL](http://www.fct.unl.pt/en "FCT-UNL's Homepage")
+Specialized in Robotics, Machine Learning (mainly Fuzzy Logic and Artificial Neural Networks) and Control Systems. Thesis: [Land Cover classification using remotely sensed data from Satellite Images and Fuzzy Inference Systems](http://ieeexplore.ieee.org/document/7555116/), in collaboration with CA3. Implemented mainly in Matlab.
 
 # Publications
 1. [Fuzzy-Fusion approach for Land Cover Classification](https://www.researchgate.net/publication/303738109_Fuzzy-Fusion_approach_for_Land_Cover_Classification)
