@@ -61,7 +61,7 @@ There I worked on several Machine Learning projects for the [European Space Agen
 
 My coordinator was Dr. Rita Ribeiro, mentored by [Lotfi A. Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh "Who is Zadeh?") (Fuzzy Logic author).
 
-I left when I finished my masters, to move to the netherlands and pursue my dream of becoming a Robotics Engineer.
+I left when I finished my masters, to move to The Netherlands and pursue my dream of becoming a Robotics Engineer.
 
 ## Teaching Assistant at [FCT-UNL](http://www.fct.unl.pt/en "FCT-UNL's Homepage"). Last semester of 2015.
 During the last year of my Masters I was a teacher assistant for the [course PM (Programação de Micro-processadores)](http://www.unl.pt/guia/2013/fct/UNLGI_getUC?uc=7777) where I assisted 1st year Electrical and Computer Engineering students taking their first steps in C and programming in general.
