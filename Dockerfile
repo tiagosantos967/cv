@@ -20,6 +20,6 @@ RUN yarn run generate
 RUN yarn global add serve
 
 # Set the command to start the node server.
-CMD serve -s public
+CMD serve public
 
 EXPOSE 5000
